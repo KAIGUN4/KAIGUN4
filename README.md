@@ -2,8 +2,7 @@
 i feel so blessed
 </p>
 
-c+h, int all ok!
-whisper to interact
-bruh i forget to change my status every time
+<p>c+h, int all ok!
+whisper to interact</p>
 ⛔ - occasionally checking screen/offtab
 🌙 - heavy afk
